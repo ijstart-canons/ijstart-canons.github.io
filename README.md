@@ -1,4 +1,4 @@
-##  Canon.com/ijsetup | Canon printer Driver | Canon Setup
+##  Canon.com/ijsetup 
 
 [![Canon.com/ijsetup](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
